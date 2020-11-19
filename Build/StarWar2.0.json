@@ -1,0 +1,14 @@
+{
+"companyName": "3118009004scott",
+"productName": "starwar",
+"dataUrl": "StarWar2.0.data.unityweb",
+"wasmCodeUrl": "StarWar2.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "StarWar2.0.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "StarWar2.0.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
